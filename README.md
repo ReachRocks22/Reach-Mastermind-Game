@@ -1,5 +1,4 @@
-# Reach-Mastermnd-Game
-## Mastermind game for REACH application process
+# LinkedIn-REACH-Mastermnd-Game by Tre Miller
 
 This game was created using Python 3.9 on visual Studio 2022 IDE software. In order to run the program simply download python 3.9 as well as any IDE software capable of interpreting python 3.9. such as Visual Studio 2022. Next, download my Mastermind Game 3 Final Draft File. This includes program as well as any audio files needed to run to the game. Make sure all files are in the same directory before running the game. Finally, run the game. 
 
